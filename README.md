@@ -24,8 +24,18 @@ Balearic Estate is a comprehensive platform for the real estate market in the Ba
 
 ## Screenshots
 
-![Screenshot 1](path/to/image1.png)
-*Description of screenshot 1.*
+### Home Page
+[![home](https://i.postimg.cc/cgH0PNvG/home.png)](https://postimg.cc/cgH0PNvG)
+*Screenshot of the home page.*
 
-![Screenshot 2](path/to/image2.png)
-*Description of screenshot 2.*
+### Property Listing
+![Property Listing](path/to/property-screenshot.png)
+*Screenshot of a property listing for sale.*
+
+### Mobile Version - Listing Page
+![Mobile Listing](path/to/mobile-listing-screenshot.png)
+*Screenshot of the listing page on mobile.*
+
+### Mobile Version - Profile Page
+![Mobile Profile](path/to/mobile-profile-screenshot.png)
+*Screenshot of the property listing for sale on mobile.*
